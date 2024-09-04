@@ -1,0 +1,14 @@
+c:\Users\bsism\Desktop\Udemy\Csharp\ConsoleAppHelloWorld\bin\Debug\net8.0\ConsoleAppHelloWorld.exe
+c:\Users\bsism\Desktop\Udemy\Csharp\ConsoleAppHelloWorld\bin\Debug\net8.0\ConsoleAppHelloWorld.deps.json
+c:\Users\bsism\Desktop\Udemy\Csharp\ConsoleAppHelloWorld\bin\Debug\net8.0\ConsoleAppHelloWorld.runtimeconfig.json
+c:\Users\bsism\Desktop\Udemy\Csharp\ConsoleAppHelloWorld\bin\Debug\net8.0\ConsoleAppHelloWorld.dll
+c:\Users\bsism\Desktop\Udemy\Csharp\ConsoleAppHelloWorld\bin\Debug\net8.0\ConsoleAppHelloWorld.pdb
+c:\Users\bsism\Desktop\Udemy\Csharp\ConsoleAppHelloWorld\obj\Debug\net8.0\ConsoleAppHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\bsism\Desktop\Udemy\Csharp\ConsoleAppHelloWorld\obj\Debug\net8.0\ConsoleAppHelloWorld.AssemblyInfoInputs.cache
+c:\Users\bsism\Desktop\Udemy\Csharp\ConsoleAppHelloWorld\obj\Debug\net8.0\ConsoleAppHelloWorld.AssemblyInfo.cs
+c:\Users\bsism\Desktop\Udemy\Csharp\ConsoleAppHelloWorld\obj\Debug\net8.0\ConsoleAppHelloWorld.csproj.CoreCompileInputs.cache
+c:\Users\bsism\Desktop\Udemy\Csharp\ConsoleAppHelloWorld\obj\Debug\net8.0\ConsoleAppHelloWorld.dll
+c:\Users\bsism\Desktop\Udemy\Csharp\ConsoleAppHelloWorld\obj\Debug\net8.0\refint\ConsoleAppHelloWorld.dll
+c:\Users\bsism\Desktop\Udemy\Csharp\ConsoleAppHelloWorld\obj\Debug\net8.0\ConsoleAppHelloWorld.pdb
+c:\Users\bsism\Desktop\Udemy\Csharp\ConsoleAppHelloWorld\obj\Debug\net8.0\ConsoleAppHelloWorld.genruntimeconfig.cache
+c:\Users\bsism\Desktop\Udemy\Csharp\ConsoleAppHelloWorld\obj\Debug\net8.0\ref\ConsoleAppHelloWorld.dll

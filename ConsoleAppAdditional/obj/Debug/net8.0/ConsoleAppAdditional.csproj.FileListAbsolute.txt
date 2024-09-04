@@ -1,0 +1,14 @@
+C:\Users\bsism\Desktop\Udemy\Csharp\ConsoleAppAdditional\bin\Debug\net8.0\ConsoleAppAdditional.exe
+C:\Users\bsism\Desktop\Udemy\Csharp\ConsoleAppAdditional\bin\Debug\net8.0\ConsoleAppAdditional.deps.json
+C:\Users\bsism\Desktop\Udemy\Csharp\ConsoleAppAdditional\bin\Debug\net8.0\ConsoleAppAdditional.runtimeconfig.json
+C:\Users\bsism\Desktop\Udemy\Csharp\ConsoleAppAdditional\bin\Debug\net8.0\ConsoleAppAdditional.dll
+C:\Users\bsism\Desktop\Udemy\Csharp\ConsoleAppAdditional\bin\Debug\net8.0\ConsoleAppAdditional.pdb
+C:\Users\bsism\Desktop\Udemy\Csharp\ConsoleAppAdditional\obj\Debug\net8.0\ConsoleAppAdditional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bsism\Desktop\Udemy\Csharp\ConsoleAppAdditional\obj\Debug\net8.0\ConsoleAppAdditional.AssemblyInfoInputs.cache
+C:\Users\bsism\Desktop\Udemy\Csharp\ConsoleAppAdditional\obj\Debug\net8.0\ConsoleAppAdditional.AssemblyInfo.cs
+C:\Users\bsism\Desktop\Udemy\Csharp\ConsoleAppAdditional\obj\Debug\net8.0\ConsoleAppAdditional.csproj.CoreCompileInputs.cache
+C:\Users\bsism\Desktop\Udemy\Csharp\ConsoleAppAdditional\obj\Debug\net8.0\ConsoleAppAdditional.dll
+C:\Users\bsism\Desktop\Udemy\Csharp\ConsoleAppAdditional\obj\Debug\net8.0\refint\ConsoleAppAdditional.dll
+C:\Users\bsism\Desktop\Udemy\Csharp\ConsoleAppAdditional\obj\Debug\net8.0\ConsoleAppAdditional.pdb
+C:\Users\bsism\Desktop\Udemy\Csharp\ConsoleAppAdditional\obj\Debug\net8.0\ConsoleAppAdditional.genruntimeconfig.cache
+C:\Users\bsism\Desktop\Udemy\Csharp\ConsoleAppAdditional\obj\Debug\net8.0\ref\ConsoleAppAdditional.dll
